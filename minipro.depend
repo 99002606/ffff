@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\windows\desktop\minipro\main.cpp
+	<iostream>
+
+1601722516 source:c:\users\windows\desktop\minipro\supermarket.cc
+	"supermarket.h"
+	<iostream>
+
+1601725165 c:\users\windows\desktop\minipro\supermarket.h
+	<iostream>
+
+1601725246 source:c:\users\windows\desktop\minipro\product.cc
+	"product.h"
+	"supermarket.h"
+	<iostream>
+	<string>
+
+1601725082 c:\users\windows\desktop\minipro\product.h
+	"supermarket.h"
+	<iostream>
+
+1601725082 source:c:\users\windows\desktop\minipro\product.h
+	"supermarket.h"
+	<iostream>
+
+1601725165 source:c:\users\windows\desktop\minipro\supermarket.h
+	<iostream>
+
+1601729637 source:c:\users\windows\desktop\minipro\supermarketdb.h
+	"Product.h"
+	<list>
+	<iterator>
+
+1601729897 source:c:\users\windows\desktop\minipro\supermarketdb.cc
+	"supermarketdb.h"
+	<iterator>
+	<list>
+
+1601729637 c:\users\windows\desktop\minipro\supermarketdb.h
+	"Product.h"
+	<list>
+	<iterator>
+
